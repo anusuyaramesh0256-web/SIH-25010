@@ -41,7 +41,10 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>AGRICULTURE:
+<h3>
+
+![alt text](image.png)
+AGRICULTURE:
 Smart Farming & Precision Agriculture:
 
 #Use IoT sensors, drones, and AI for soil health monitoring, irrigation, and crop yield prediction.
